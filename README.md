@@ -2,6 +2,10 @@
 
 A simple to-do list / task manager web app written in **plain PHP** with **MySQL** (PDO) and styled with **Tailwind CSS**. Create, view, edit, and delete tasks with priorities, progress status, and due dates, and import or export your tasks as CSV.
 
+<p align="center">
+  <img src="screenshots/tasks.png" alt="Task list" width="50%" />
+</p>
+
 ## Features
 
 - **Full CRUD** for tasks through modal dialogs (create, view details, edit, delete)
